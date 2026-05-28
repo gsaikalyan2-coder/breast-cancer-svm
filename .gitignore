@@ -1,0 +1,33 @@
+# Model files — too large for GitHub, keep on Google Drive
+*.pkl
+*.joblib
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Environment variables
+.env
+.env.local
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Streamlit cache
+.streamlit/
+
+# Gradio temp
+flagged/
+
+# Docker
+.dockerignore
